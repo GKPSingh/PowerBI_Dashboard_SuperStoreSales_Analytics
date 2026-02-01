@@ -29,6 +29,8 @@ The primary objective of this project is to identify revenue drivers, profit tre
 
 ---
 
+<img src="SuperStoreD1.png" height="400" width="500">
+
 ## 🔍 Key Insights
 
 * **Office Supplies** is the highest-performing category, followed by **Technology** and **Furniture**.
