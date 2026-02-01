@@ -44,6 +44,8 @@ The primary objective of this project is to identify revenue drivers, profit tre
 
 ---
 
+<img src="SuperStoreD2.png" height="800" width="800">
+
 ## 📈 Summary of Findings
 
 The Super Store demonstrates strong financial performance with balanced contributions across categories and regions. While consumer-driven sales dominate, corporate and home office segments present opportunities for expansion. Regional analysis highlights the West and East as strong markets, while Central and South regions offer untapped growth potential. Forecasting results suggest stable demand, enabling better inventory and logistics planning.
