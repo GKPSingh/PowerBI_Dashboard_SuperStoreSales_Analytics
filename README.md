@@ -2,9 +2,11 @@
 
 ## 📌 Project Overview
 
-This project showcases an end-to-end **Power BI sales analytics solution** built to analyze Super Store performance across sales, profit, customers, regions, and time. The dashboard is designed with a **business-first mindset**, enabling stakeholders to quickly identify revenue drivers, trends, and growth opportunities through interactive visuals.
+This Power BI project presents an interactive Super Store Sales Analysis Dashboard designed to analyze sales performance, profitability, customer behavior, and regional trends. The dashboard consolidates transactional data to provide business stakeholders with clear, data-driven insights that support strategic decision-making.
 
-The project demonstrates practical skills in **data modeling, DAX, time intelligence, forecasting, and dashboard design**, making it well-suited for recruiter and hiring manager review.
+Using Power BI features such as **DAX measures, data modeling, time intelligence, and forecasting**, the project visualizes key metrics including total sales, profit, quantity sold, shipping performance, and sales forecasts. The dashboard enables users to explore performance by category, sub-category, customer segment, region, state, shipping mode, and payment method.
+
+The primary objective of this project is to identify revenue drivers, profit trends, customer preferences, and growth opportunities through intuitive and interactive visual analytics.
 
 ---
 
@@ -82,20 +84,5 @@ The Super Store demonstrates strong financial performance with balanced contribu
 
 ---
 
-## 📎 Project Preview
-
-*(Add dashboard screenshots here for better visual impact)*
-
----
-
-## 📬 Contact
-
-**Chandni Parmar**
-Aspiring Data Analyst | Power BI | SQL | Excel | Data Visualization
-
-🔗 LinkedIn: *(add your LinkedIn URL)*
-📁 Portfolio: *(optional)*
-
----
 
 ⭐ *If you find this project useful, feel free to star the repository!*
