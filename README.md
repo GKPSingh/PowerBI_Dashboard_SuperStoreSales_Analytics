@@ -29,7 +29,7 @@ The primary objective of this project is to identify revenue drivers, profit tre
 
 ---
 
-<img src="SuperStoreD1.png" height="400" width="500">
+<img src="SuperStoreD1.png" height="800" width="800">
 
 ## 🔍 Key Insights
 
